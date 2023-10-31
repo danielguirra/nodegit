@@ -10,8 +10,7 @@ const options = {
    trimmed: false,
 };
 
-// when setting all options in a single object
-const git = simpleGit(options);
+
 
 
 
