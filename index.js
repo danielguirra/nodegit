@@ -18,5 +18,3 @@ simpleGit()
    .init()
    .add('./*')
    .commit('first commit!')
-   .addRemote('origin', 'https://github.com/danielguirra/nodegit.git')
-   .push('origin', 'master');
